@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Dhoti Set in Charcoal, Front view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#EFEAE2"/><stop offset="1" stop-color="#DED6C9"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g><path d="M180,224 L172,500 L236,500 L250,320 L264,500 L328,500 L320,224 Z" fill="#3A3E44" stroke="#282B2F" stroke-width="3" stroke-linejoin="round"/><rect x="178" y="206" width="144" height="26" rx="6" fill="#282B2F"/><path d="M250,232 L250,320" stroke="#282B2F" stroke-width="4"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#6B6155">Dhoti Set</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6B6155" opacity="0.75" letter-spacing="1.5">CHARCOAL &#183; FRONT VIEW</text>
+</svg>

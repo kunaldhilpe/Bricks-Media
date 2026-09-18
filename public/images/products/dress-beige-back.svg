@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Dress in Beige, Back view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#3C3F45"/><stop offset="1" stop-color="#292C31"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g transform="translate(500,0) scale(-1,1)"><path d="M190,178 L168,196 L182,300 L146,520 L354,520 L318,300 L332,196 L310,178 L250,206 Z" fill="#D8C3A0" stroke="#978870" stroke-width="3" stroke-linejoin="round"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#C8C2B8">Dress</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#C8C2B8" opacity="0.75" letter-spacing="1.5">BEIGE &#183; BACK VIEW</text>
+</svg>

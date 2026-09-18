@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Belt in Mustard, Back view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#3C3F45"/><stop offset="1" stop-color="#292C31"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g transform="translate(500,0) scale(-1,1)"><path d="M104,316 L342,316 L342,376 L104,376 Z" fill="#C79A22" stroke="#8B6B17" stroke-width="3" stroke-linejoin="round"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#C8C2B8">Belt</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#C8C2B8" opacity="0.75" letter-spacing="1.5">MUSTARD &#183; BACK VIEW</text>
+</svg>

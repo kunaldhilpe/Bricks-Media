@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Blouse in Silver, Front view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#3C3F45"/><stop offset="1" stop-color="#292C31"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g><path d="M175,175 L140,190 L105,368 L150,390 L172,250 L172,470 L328,470 L328,250 L350,390 L395,368 L360,190 L325,175 L300,168 L250,196 L200,168 Z" fill="#BEC3C9" stroke="#85888C" stroke-width="3" stroke-linejoin="round"/><path d="M212,170 L250,200 L288,170 L288,150 L250,168 L212,150 Z" fill="#85888C" opacity="0.9"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#C8C2B8">Blouse</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#C8C2B8" opacity="0.75" letter-spacing="1.5">SILVER &#183; FRONT VIEW</text>
+</svg>

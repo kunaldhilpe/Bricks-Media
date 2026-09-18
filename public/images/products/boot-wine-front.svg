@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Boot in Wine, Front view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#EFEAE2"/><stop offset="1" stop-color="#DED6C9"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g><path d="M156,398 L156,214 L232,214 L232,332 L330,356 L368,392 L368,410 L156,410 Z" fill="#5E2036" stroke="#411625" stroke-width="3" stroke-linejoin="round"/><path d="M154,402 L370,402 L370,424 L154,424 Z" fill="#411625"/><path d="M164,250 L224,250 M164,286 L224,286" stroke="#845566" stroke-width="5"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#6B6155">Boot</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6B6155" opacity="0.75" letter-spacing="1.5">WINE &#183; FRONT VIEW</text>
+</svg>

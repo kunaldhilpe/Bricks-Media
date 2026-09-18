@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Denim Jacket in Black, Front view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#EFEAE2"/><stop offset="1" stop-color="#DED6C9"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g><path d="M175,175 L138,192 L104,300 L150,322 L172,255 L172,478 L328,478 L328,255 L350,322 L396,300 L362,192 L325,175 L250,205 Z" fill="#1E1E20" stroke="#151516" stroke-width="3" stroke-linejoin="round"/><path d="M250,205 L250,478" stroke="#151516" stroke-width="5" fill="none"/><path d="M205,178 L250,208 L295,178 L282,168 L250,190 L218,168 Z" fill="#151516"/><circle cx="262" cy="300" r="5" fill="#545455"/><circle cx="262" cy="350" r="5" fill="#545455"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#6B6155">Denim Jacket</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6B6155" opacity="0.75" letter-spacing="1.5">BLACK &#183; FRONT VIEW</text>
+</svg>

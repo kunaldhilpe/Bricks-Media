@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Heel in Navy, Front view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#EFEAE2"/><stop offset="1" stop-color="#DED6C9"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g><path d="M124,392 L124,374 Q190,350 264,344 L330,314 L330,282 L372,282 L372,392 Z" fill="#22304F" stroke="#172137" stroke-width="3" stroke-linejoin="round"/><path d="M336,390 L370,390 L362,454 L342,454 Z" fill="#172137"/><path d="M122,390 L374,390 L374,406 L122,406 Z" fill="#172137"/><path d="M330,300 Q350,312 372,300" fill="none" stroke="#576179" stroke-width="5"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#6B6155">Heel</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6B6155" opacity="0.75" letter-spacing="1.5">NAVY &#183; FRONT VIEW</text>
+</svg>

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Kunal Sharma",
+    "email": "kunal@luxe.com",
+    "username": "kunal",
+    "password": "kunal123",
+    "role": "admin",
+    "avatar": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "name": "Aditi Verma",
+    "email": "aditi@luxe.com",
+    "username": "aditi",
+    "password": "aditi123",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Mehta",
+    "email": "rohan@luxe.com",
+    "username": "rohan",
+    "password": "rohan123",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?img=12"
+  },
+  {
+    "id": 4,
+    "name": "Simran Kaur",
+    "email": "simran@luxe.com",
+    "username": "simran",
+    "password": "simran123",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?img=20"
+  },
+  {
+    "id": 5,
+    "name": "Aryan Kapoor",
+    "email": "aryan@luxe.com",
+    "username": "aryan",
+    "password": "aryan123",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?img=33"
+  },
+  {
+    "id": 6,
+    "name": "Neha Joshi",
+    "email": "neha@luxe.com",
+    "username": "neha",
+    "password": "neha123",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?img=45"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Singh",
+    "email": "vikram@luxe.com",
+    "username": "vikram",
+    "password": "vikram123",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?img=50"
+  },
+  {
+    "id": 8,
+    "name": "Test User",
+    "email": "test@luxe.com",
+    "username": "test",
+    "password": "test123",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?img=60"
+  }
+]

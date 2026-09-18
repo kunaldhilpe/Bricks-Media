@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Wear",
+    "slug": "mens-wear",
+    "icon": "\ud83d\udc54",
+    "image": "https://picsum.photos/seed/cat1/600/400",
+    "subcategories": [
+      "Shirts",
+      "Trousers",
+      "Blazers",
+      "Kurtas",
+      "Jackets"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Women's Wear",
+    "slug": "womens-wear",
+    "icon": "\ud83d\udc57",
+    "image": "https://picsum.photos/seed/cat2/600/400",
+    "subcategories": [
+      "Dresses",
+      "Gowns",
+      "Sarees",
+      "Tops",
+      "Skirts"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Formals",
+    "slug": "formals",
+    "icon": "\ud83d\udd74\ufe0f",
+    "image": "https://picsum.photos/seed/cat3/600/400",
+    "subcategories": [
+      "Suits",
+      "Formal Shirts",
+      "Formal Trousers",
+      "Ties",
+      "Waistcoats"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Funky Collection",
+    "slug": "funky",
+    "icon": "\ud83c\udfa8",
+    "image": "https://picsum.photos/seed/cat4/600/400",
+    "subcategories": [
+      "Printed Shirts",
+      "Graphic Tees",
+      "Neon Jackets",
+      "Statement Pants"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Stylish Clothes",
+    "slug": "stylish",
+    "icon": "\u2728",
+    "image": "https://picsum.photos/seed/cat5/600/400",
+    "subcategories": [
+      "Streetwear",
+      "Fusion Wear",
+      "Party Wear",
+      "Co-ord Sets"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Shoes",
+    "slug": "shoes",
+    "icon": "\ud83d\udc5e",
+    "image": "https://picsum.photos/seed/cat6/600/400",
+    "subcategories": [
+      "Sneakers",
+      "Formal Shoes",
+      "Loafers",
+      "Boots",
+      "Heels"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Accessories",
+    "slug": "accessories",
+    "icon": "\ud83d\udc5c",
+    "image": "https://picsum.photos/seed/cat7/600/400",
+    "subcategories": [
+      "Belts",
+      "Watches",
+      "Bags",
+      "Sunglasses",
+      "Cufflinks"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ethnic Wear",
+    "slug": "ethnic",
+    "icon": "\ud83e\ude94",
+    "image": "https://picsum.photos/seed/cat8/600/400",
+    "subcategories": [
+      "Sherwanis",
+      "Lehengas",
+      "Nehru Jackets",
+      "Dhoti Sets"
+    ]
+  }
+]

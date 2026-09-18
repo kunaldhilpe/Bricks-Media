@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Printed Shirt in Olive, Back view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#EFEAE2"/><stop offset="1" stop-color="#DED6C9"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g transform="translate(500,0) scale(-1,1)"><path d="M175,175 L140,190 L105,368 L150,390 L172,250 L172,470 L328,470 L328,250 L350,390 L395,368 L360,190 L325,175 L300,168 L250,196 L200,168 Z" fill="#6C7142" stroke="#4B4F2E" stroke-width="3" stroke-linejoin="round"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#6B6155">Printed Shirt</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6B6155" opacity="0.75" letter-spacing="1.5">OLIVE &#183; BACK VIEW</text>
+</svg>

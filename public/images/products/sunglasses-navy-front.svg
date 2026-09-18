@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Sunglasses in Navy, Front view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#EFEAE2"/><stop offset="1" stop-color="#DED6C9"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g><path d="M146,296 L236,296 L232,368 L150,368 Z" fill="#22304F" stroke="#172137" stroke-width="3" stroke-linejoin="round"/><path d="M264,296 L354,296 L350,368 L268,368 Z" fill="#22304F"/><path d="M236,306 Q250,292 264,306" fill="none" stroke="#172137" stroke-width="11"/><path d="M146,300 L96,286 M354,300 L404,286" stroke="#172137" stroke-width="11"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#6B6155">Sunglasses</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6B6155" opacity="0.75" letter-spacing="1.5">NAVY &#183; FRONT VIEW</text>
+</svg>

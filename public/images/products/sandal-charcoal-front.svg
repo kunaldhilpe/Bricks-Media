@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Sandal in Charcoal, Front view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#EFEAE2"/><stop offset="1" stop-color="#DED6C9"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g><path d="M124,388 L376,388 L380,412 L120,412 Z" fill="#3A3E44" stroke="#282B2F" stroke-width="3" stroke-linejoin="round"/><path d="M160,386 Q250,306 340,386" fill="none" stroke="#282B2F" stroke-width="16"/><path d="M214,386 Q250,338 286,386" fill="none" stroke="#696C70" stroke-width="12"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#6B6155">Sandal</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6B6155" opacity="0.75" letter-spacing="1.5">CHARCOAL &#183; FRONT VIEW</text>
+</svg>

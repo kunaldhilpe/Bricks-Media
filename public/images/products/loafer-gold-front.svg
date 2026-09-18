@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Loafer in Gold, Front view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#3C3F45"/><stop offset="1" stop-color="#292C31"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g><path d="M132,388 L132,330 L206,330 L268,346 L354,376 L376,392 L132,392 Z" fill="#C8A32A" stroke="#8C721D" stroke-width="3" stroke-linejoin="round"/><path d="M130,388 L378,388 L378,408 L130,408 Z" fill="#8C721D"/><path d="M206,332 Q244,358 276,352" fill="none" stroke="#D5B95D" stroke-width="5"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#C8C2B8">Loafer</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#C8C2B8" opacity="0.75" letter-spacing="1.5">GOLD &#183; FRONT VIEW</text>
+</svg>

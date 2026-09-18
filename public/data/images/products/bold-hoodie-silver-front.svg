@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Bold Hoodie in Silver, Front view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#3C3F45"/><stop offset="1" stop-color="#292C31"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g><path d="M175,190 L138,206 L104,312 L150,334 L172,268 L172,488 L328,488 L328,268 L350,334 L396,312 L362,206 L325,190 L250,216 Z" fill="#BEC3C9" stroke="#85888C" stroke-width="3" stroke-linejoin="round"/><path d="M198,188 Q250,146 302,188 Q250,222 198,188 Z" fill="#85888C"/><rect x="196" y="374" width="108" height="62" rx="9" fill="none" stroke="#85888C" stroke-width="5"/><path d="M232,208 L228,250 M268,208 L272,250" stroke="#CDD1D5" stroke-width="5" fill="none"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#C8C2B8">Bold Hoodie</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#C8C2B8" opacity="0.75" letter-spacing="1.5">SILVER &#183; FRONT VIEW</text>
+</svg>

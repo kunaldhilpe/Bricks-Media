@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Belt in Emerald, Front view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#EFEAE2"/><stop offset="1" stop-color="#DED6C9"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g><path d="M104,316 L342,316 L342,376 L104,376 Z" fill="#1E7A5A" stroke="#15553E" stroke-width="3" stroke-linejoin="round"/><rect x="336" y="300" width="64" height="92" rx="12" fill="none" stroke="#15553E" stroke-width="14"/><circle cx="172" cy="346" r="7" fill="#549981"/><circle cx="216" cy="346" r="7" fill="#549981"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#6B6155">Belt</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6B6155" opacity="0.75" letter-spacing="1.5">EMERALD &#183; FRONT VIEW</text>
+</svg>

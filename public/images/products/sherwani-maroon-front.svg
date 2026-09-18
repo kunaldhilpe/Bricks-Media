@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Sherwani in Maroon, Front view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#EFEAE2"/><stop offset="1" stop-color="#DED6C9"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g><path d="M175,168 L138,188 L106,320 L152,340 L172,262 L172,545 L328,545 L328,262 L348,340 L394,320 L362,188 L325,168 L250,200 Z" fill="#6F1F2A" stroke="#4D151D" stroke-width="3" stroke-linejoin="round"/><path d="M250,200 L250,545" stroke="#4D151D" stroke-width="5" fill="none"/><path d="M206,172 L250,204 L294,172 L280,162 L250,186 L220,162 Z" fill="#4D151D"/><circle cx="264" cy="300" r="5" fill="#91545D"/><circle cx="264" cy="360" r="5" fill="#91545D"/><circle cx="264" cy="420" r="5" fill="#91545D"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#6B6155">Sherwani</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6B6155" opacity="0.75" letter-spacing="1.5">MAROON &#183; FRONT VIEW</text>
+</svg>

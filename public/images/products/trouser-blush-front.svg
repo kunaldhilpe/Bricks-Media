@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" width="500" height="650" role="img" aria-label="Trouser in Blush, Front view">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#3C3F45"/><stop offset="1" stop-color="#292C31"/></linearGradient></defs>
+<rect width="500" height="650" fill="url(#bg)"/>
+<ellipse cx="250" cy="566" rx="150" ry="22" fill="#000" opacity="0.10"/>
+<g><path d="M180,224 L172,500 L236,500 L250,320 L264,500 L328,500 L320,224 Z" fill="#E6B4B4" stroke="#A17D7D" stroke-width="3" stroke-linejoin="round"/><rect x="178" y="206" width="144" height="26" rx="6" fill="#A17D7D"/><path d="M250,232 L250,320" stroke="#A17D7D" stroke-width="4"/></g>
+<text x="250" y="608" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#C8C2B8">Trouser</text>
+<text x="250" y="632" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#C8C2B8" opacity="0.75" letter-spacing="1.5">BLUSH &#183; FRONT VIEW</text>
+</svg>

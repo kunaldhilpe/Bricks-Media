@@ -1,0 +1,15 @@
+{
+  "appName": "LUX\u00c9 \u2014 Premium Clothing Collection",
+  "currency": "INR",
+  "currencySymbol": "\u20b9",
+  "totalProducts": 5200,
+  "totalBrands": 30,
+  "totalCategories": 8,
+  "totalUsers": 8,
+  "files": {
+    "users": "users.json",
+    "brands": "brands.json",
+    "categories": "categories.json",
+    "products": "products.json"
+  }
+}
